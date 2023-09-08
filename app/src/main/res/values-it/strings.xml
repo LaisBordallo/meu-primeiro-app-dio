@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LaMiaPrimaAppDio</string>
+    <string name="hello_dio">CiaoMondoDIO</string>
+    <string name="error_message">Si è verificato un errore. Riprova.</string>
+    <string name="submit_button">Invia</string>
+    <string name="email_label">Indirizzo email:</string>
+</resources>
