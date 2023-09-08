@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiPrimeraAplicaciónDio</string>
+    <string name="hello_dio">Hola mundo DIO</string>
+    <string name="error_message">Se ha producido un error. Inténtalo de nuevo.</string>
+    <string name="submit_button">Enviar</string>
+    <string name="email_label">Dirección de correo electrónico:</string>
+</resources>

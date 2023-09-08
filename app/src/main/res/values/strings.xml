@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">MeuPrimeiroAppDio</string>
     <string name="hello_dio">Olá mundo DIO</string>
+    <string name="error_message">Ocorreu um erro. Por favor, tente novamente.</string>
+    <string name="submit_button">Enviar</string>
+    <string name="email_label">Endereço de email:</string>
 </resources>
